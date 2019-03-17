@@ -1,4 +1,4 @@
-# Systems Engineering
+# Systems Engineering / Rendszermérnöki ismeretek 
 Lecture notes for the Systems Engineering Course
 
 Jegyzetek a Rendszermérnöki ismeretek és Rendszertechnika tárgyakhoz
