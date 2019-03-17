@@ -1,5 +1,5 @@
 # Systems Engineering / Rendszermérnöki ismeretek 
-Lecture notes for the Systems Engineering Course
+Lecture notes on Systems Engineering / Python for Systems Engineers and Data Scientists
 
 Jegyzetek a Rendszermérnöki ismeretek és Rendszertechnika tárgyakhoz
 
