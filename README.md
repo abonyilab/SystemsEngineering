@@ -1,6 +1,5 @@
 # Systems Engineering / Rendszermérnöki ismeretek 
-Lecture notes on Systems Engineering / Python for Systems Engineers and Data Scientists
+# Python for Systems Engineers and Data Scientists / Python rendszermérnököknek és adattudósoknak
 
-Jegyzetek a Rendszermérnöki ismeretek és Rendszertechnika tárgyakhoz
-
-A jegyzetek a EFOP-3.4.3-16-2016-00009 projekt támogatásával készültek. 
+Az interaktív jegyzetek a Rendszermérnöki ismeretek és Rendszertechnika tárgyakhoz 
+az EFOP-3.4.3-16-2016-00009 projekt támogatásával készültek. 
